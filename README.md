@@ -5,3 +5,7 @@
 |Bjørnar Hatling Skåden| https://github.com/bjornarsk|
 
 |Victoria Wold| https://github.com/victow11|
+
+|Simen Chan Amundsen| |
+
+|Gøran Kvitne| |
