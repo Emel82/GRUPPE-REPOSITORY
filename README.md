@@ -6,6 +6,6 @@
 
 |Victoria Wold| https://github.com/victow11|
 
-|Simen Chan Amundsen| |
+|Simen Chan Amundsen|adress |
 
-|Gøran Kvitne| |
+|Gøran Kvitne|adress |
