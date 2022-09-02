@@ -1,6 +1,6 @@
 # GRUPPE-REPOSITORY
 
-|Emel Yilmaz| https://github.com/Emel82/IS-114html.git|
+|Emel Yilmaz| https://github.com/Emel82|
 
 |Bjørnar Hatling Skåden| https://github.com/bjornarsk|
 
