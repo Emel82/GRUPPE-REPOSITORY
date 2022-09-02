@@ -6,6 +6,6 @@
 
 |Victoria Wold| https://github.com/victow11|
 
-|Simen Chan Amundsen|https://github.com/Chamundsen/Individuell-repository|
+|Simen Chan Amundsen|https://github.com/Chamundsen|
 
-|Gøran Kvitne|https://github.com/gorankvi/IND-GITHUB-KONTO|
+|Gøran Kvitne|https://github.com/gorankvi|
