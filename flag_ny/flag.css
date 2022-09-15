@@ -2,7 +2,6 @@ header{
     height: 100px;
     width: 100%;
     margin: auto;
-    /* border-bottom: solid black 1px; */
     background: rgb(65, 78, 107);
     color: white;
     padding: 20px;
@@ -17,12 +16,9 @@ header{
  
   
 .container{
-    /* display: inline-block;
-    text-align: center; */
     display: flex;
     justify-content: space-between;
     color:rgb(65, 78, 107);
-    /* border: 3px solid black; */
     margin-top: 30px;
     
   }
@@ -90,7 +86,6 @@ header{
     transform: translateY(-50%);
   }
   .tysk {
-    /* margin: auto; */
     height: 190px;
     width: 300px;
     overflow: hidden;
