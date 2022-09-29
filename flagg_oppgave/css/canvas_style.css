@@ -1,0 +1,30 @@
+body{
+    background-color: lightgray;
+    margin: 0;
+}
+header{
+    height: 100%;
+        width: 100%;
+        background: rgb(65, 78, 107);
+        color: white;
+        padding: 10px;
+        margin-bottom: 0;
+        margin-left: 0;
+        text-align: center;
+
+}
+header p{
+    font-size: 20px;
+}
+.row{
+    display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        margin-top: 30px;
+        height: 100%;
+        width: 100%;
+}
+h2{
+   margin-left: 70px;
+   color: rgb(54, 70, 105);
+}
