@@ -30,4 +30,5 @@ For å lage flaggene med denne metoden, la vi til <canvas>-elementet inne i div-
 
 Kilder:
 Domantas G. (2022, 05. April) Types of CSS: Inline, External and Internal Definitions and Differences Explained. Hostinger. Hentet fra: https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css
+
 W3 schools. (u.å.) HTML Canvas Graphics. Hentet fra: https://www.w3schools.com/html/html5_canvas.asp
