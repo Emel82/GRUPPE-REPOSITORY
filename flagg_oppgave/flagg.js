@@ -1,7 +1,7 @@
 let norge = document.querySelector("#norge");
 let flagg1= norge.getContext("2d");
 
-flagg1.fillStyle = "#FFFFFf"; // hvit
+flagg1.fillStyle = "#FFFFFF"; // hvit
 flagg1.fillRect(0,0,220,150);
 flagg1.fillStyle = '#EF2B2D'; // rød
 flagg1.fillRect(0,0,60,60);
