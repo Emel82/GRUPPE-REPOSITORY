@@ -17,6 +17,12 @@ Vi har laget prosjektet på Github, noe som gjør det enklere for oss å organis
 Vi har delt inn flaggoppgave i deloppgaver som fordeles på gruppemedlemmer og registreres i Github projects og vi har gjort om disse oppgavene til Issues.
 Vi har brukt div- element for å lage flaggene da div-element er som en box og det er lettere å justere flaggene. Siden div-element er block, brukte vi display: flex style for å justere flaggene horisontalt. For å utjevne avstanden mellom flaggene brukte vi justify-content: space-jevnt style. Vi brukte også flex-wrap: wrap style for at flaggene skulle stilles opp på den lille skjermen.
 
+Tildeling av oppgaver: 
+
+1) p-element og "style attributt - alle medlemmer
+2) p-element og "id" og/eller "class" attributter - Victoria, Simen, Bjørnar
+3) HTML5 canvas API - Gøran og Emel
+
 1) p-elementet og “style” attributt
 I denne oppgaven brukte vi inline CSS til å style et spesifikt HTML-element. Vi la til style attribute til hver HTML-tag, uten å bruke selectors.
 Siden hver HTML-tag må styles individuelt, anbefales ikke denne CSS-typen. Det er tidkrevende å legge til CSS-regler til hvert HTML-element og kompliserer HTML-strukturen. Dessuten kan styling av flere elementer påvirke sidestørrelse og nedlastingstid. (Domantas, 2022). Siden det ikke er mulig å lage runde former med denne metoden, vil det ikke være mulig å produsere flere typer flagg.
