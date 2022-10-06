@@ -19,9 +19,11 @@ Vi har brukt div- element for å lage flaggene da div-element er som en box og d
 
 Tildeling av oppgaver: 
 
-1) p-element og "style attributt - alle medlemmer
-2) p-element og "id" og/eller "class" attributter - Victoria, Simen, Bjørnar
-3) HTML5 canvas API - Gøran og Emel
+P-element og "style attributt - alle medlemmer
+
+P-element og "id" og/eller "class" attributter - Victoria, Simen, Bjørnar
+
+HTML5 canvas API - Gøran og Emel
 
 1) p-elementet og “style” attributt
 I denne oppgaven brukte vi inline CSS til å style et spesifikt HTML-element. Vi la til style attribute til hver HTML-tag, uten å bruke selectors.
